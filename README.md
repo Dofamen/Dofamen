@@ -38,24 +38,12 @@
 </p>
 
 <p align="center">
- <a href="https://Dofamen.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Dofamen" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dofamen"/>
  </a>
- <!-- <a href="https://dev.to/Dofamen" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dofamen" />
- </a> -->
- <a href="https://twitter.com/_Dofamen" target="_blank">
+ <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_Dofamen" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Dofamen" />
- </a> 
- <a href="https://facebook.com/Dofamen.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Dofamen"  />
-  </a> 
 </p>
 <br />
 
@@ -110,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/Dofamen">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dofamen&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dofamen&theme=radical&border=7F3FBF&background=0D1117" alt="El Mehdi El Ouakifi's GitHub streak"/>
   </a>
 </p>
 
